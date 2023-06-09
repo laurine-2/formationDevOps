@@ -1,1 +1,5 @@
 bpnjour a tous je suis nouvelle
+
+nous allos faire du git
+docker
+maven
